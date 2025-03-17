@@ -1,0 +1,29 @@
+# ---- Node.js (frontend) ----
+frontend/node_modules/
+frontend/.next/
+frontend/.turbo/
+frontend/.env.local
+frontend/.env
+frontend/.eslintcache
+
+# ---- Python (backend) ----
+backend/__pycache__/
+backend/venv/
+backend/.env
+backend/temp_cv.pdf
+
+# ---- Common IDE junk ----
+.vscode/
+.idea/
+*.log
+*.pyc
+.DS_Store
+Thumbs.db
+
+# ---- OS specific ----
+*.swp
+*.swo
+
+# ---- Environment files ----
+.env
+*.env
